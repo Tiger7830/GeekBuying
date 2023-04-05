@@ -85,8 +85,3 @@ Geekbuying is an online retailer of electronic devices & accessories. Product ca
 
 
 
-- [@Randhir Kumar](https://github.com/Randhir200)
-- [@Singh Robin Jayprakash](https://github.com/rs230498)
-- [@Rajnish Kumar](https://github.com/Rajnish1234567)
-- [@Bishal Patgiri](https://github.com/BishalPatgiri)
-- [@Ankit Chaurasia](https://github.com/ankit24695)
