@@ -1,7 +1,7 @@
 # GeekBuying
 
 ## Summary
-This is the project work of Unit 3 and we are the team of 6 people who have contibuted in this project.
+This is the project work of Unit 3 and we are the team of 4 people who have contibuted in this project.
 Geekbuying is an online retailer of electronic devices & accessories. Product catalog includes mobiles & tables, consumer electronics, computer & networking products, sports accessories, home decor electronics, and more.
 
 ## Screenshots
